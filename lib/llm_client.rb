@@ -10,11 +10,11 @@ require "ruby-next/language/setup"
 
 RubyNext::Language.setup_gem_load_path(transpile: true)
 
-require_relative "llm_client/util"
-require_relative "llm_client/configuration"
-require_relative "llm_client/errors"
-require_relative "llm_client/http_client"
-require_relative "llm_client/version"
+require "llm_client/util"
+require "llm_client/configuration"
+require "llm_client/errors"
+require "llm_client/http_client"
+require "llm_client/version"
 
 # A module representing an LLM client.
 #
