@@ -1,6 +1,6 @@
 # Llm Client
 
-Ruby client to connect to [LLM Server](https://github.com/mariochavez/llm_server){:target="https://github.com/mariochavez/llm_server"}.
+Ruby client to connect to [LLM Server](https://github.com/mariochavez/llm_server).
 
 ## Installation
 
