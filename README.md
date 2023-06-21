@@ -2,6 +2,10 @@
 
 Ruby client to connect to [LLM Server](https://github.com/mariochavez/llm_server).
 
+## Demo
+
+https://github.com/mariochavez/llm_client/assets/59967/16b411b7-a538-4a96-91be-8979c99ff4aa
+
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
